@@ -19,7 +19,7 @@ This plugin allows you to accept credit card payments via PayPlug. It has a simp
 <a href="www.payplug.fr/portal2/signup?sponsor=136" title="Register for free to PayPlug">Register for free to PayPlug</a>
 
 = Français =
-Ce plugin vous permet d'accepter les paiements par carte de crédit via PayPlug. Il dispose d'un shortcode et d'un widget qui vous permet de placer les boutons acheter n'importe où sur votre site WordPress.
+Ce plugin vous permet d'accepter les paiements par carte de crédit via PayPlug. Il dispose d'un shortcode et d'un widget qui vous permet de placer des boutons d'achat n'importe où sur votre site WordPress.
 
 <a href="www.payplug.fr/portal2/signup?sponsor=136" tile="Inscrivez-vous gratuitement à PayPlug">Inscrivez-vous gratuitement à PayPlug</a>
 
