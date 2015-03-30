@@ -64,7 +64,7 @@ class PAYPLUG_Plugin {
             <?php _e( '<b>2,5% per transaction + 0,25 €</b>.<br/>Your client doesn\'t have to account to pay.', 'payplug'); ?>
             <p>
                 <a href="www.payplug.fr/portal2/signup?sponsor=136" target="_blank" class="button button-primary"><?php _e('Create free account', 'payplug'); ?></a>
-                <a href="www.payplug.fr/?sponsor=136" target="_blank" class="button"><?php _e('Learn more about PayPlug', 'payplug'); ?></a>
+                <a href="http://www.payplug.fr/?sponsor=136" target="_blank" class="button"><?php _e('Learn more about PayPlug', 'payplug'); ?></a>
             </p>
         </div>
         <h2><?php _e( 'PayPlug configuration', 'payplug' ); ?></h2>
