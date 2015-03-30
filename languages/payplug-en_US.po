@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PayPlug\n"
+"POT-Creation-Date: 2015-03-16 20:37+0100\n"
+"PO-Revision-Date: 2015-03-16 20:37+0100\n"
+"Last-Translator: Kulka Nicolas <contact@plateformewpdigital.fr>\n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/plugin.php:37 classes/plugin.php:38
+msgid "PayPlug"
+msgstr ""
+
+#: classes/plugin.php:63
+msgid "Integrate online payment on your website in 1 minute."
+msgstr ""
+
+#: classes/plugin.php:64
+msgid ""
+"<b>2,5% per transaction + 0,25 €</b>.<br/>Your client doesn't have to "
+"account to pay."
+msgstr ""
+
+#: classes/plugin.php:66
+msgid "Create free account"
+msgstr ""
+
+#: classes/plugin.php:67
+msgid "Learn more about PayPlug"
+msgstr ""
+
+#: classes/plugin.php:70
+msgid "PayPlug configuration"
+msgstr ""
+
+#: classes/plugin.php:75
+msgid ""
+"Once configured, use the shortcode [payplug price=\"xx.xx\" title_button="
+"\"Buy\"] to generate a payment button PayPlug."
+msgstr ""
+
+#: classes/plugin.php:93
+msgid "Login PayPlug"
+msgstr ""
+
+#: classes/plugin.php:100
+msgid "Password PayPlug"
+msgstr ""
+
+#: classes/plugin.php:107
+msgid "Payplug TEST mode ?"
+msgstr ""
+
+#: classes/plugin.php:143 classes/plugin.php:199
+#: classes/widgets/payplug_widget.php:18
+msgid "OpenSSL must be enabled to run PayPlug"
+msgstr ""
+
+#: classes/plugin.php:153
+msgid "The login and password are mandatory"
+msgstr ""
+
+#: classes/plugin.php:168
+msgid "Your login and/or password PayPlug are incorrect"
+msgstr ""
+
+#: classes/plugin.php:175
+msgid "PayPlug error"
+msgstr ""
+
+#: classes/plugin.php:190
+msgid "Changes saved"
+msgstr ""
+
+#: classes/plugin.php:208
+msgid ""
+"Unable to generate the shortcode PayPlug, thank you to verify the "
+"configuration PayPlug"
+msgstr ""
+
+#: classes/plugin.php:225 classes/widgets/payplug_widget.php:44
+#: classes/widgets/payplug_widget.php:58
+msgid "Buy"
+msgstr ""
+
+#: classes/widgets/payplug_widget.php:7
+msgid "Add button payment PayPlug."
+msgstr ""
+
+#: classes/widgets/payplug_widget.php:27
+msgid ""
+"Unable to generate the button PayPlug, thank you to verify the configuration "
+"PayPlug"
+msgstr ""
+
+#: classes/widgets/payplug_widget.php:72
+msgid "Button title"
+msgstr ""
+
+#: classes/widgets/payplug_widget.php:76
+msgid "Price"
+msgstr ""
+
+#~ msgid "Purchase"
+#~ msgstr "Acheter"
