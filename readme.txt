@@ -16,12 +16,12 @@ Accept payments from your WordPress site via PayPlug payment gateway.
 = English =
 This plugin allows you to accept credit card payments via PayPlug. It has a simple shortcode and widget that lets you place buy buttons anywhere on your WordPress site.
 
-<a href="www.payplug.fr/portal2/signup?sponsor=136" title="Register for free to PayPlug">Register for free to PayPlug</a>
+<a href="http://www.payplug.fr/portal2/signup?sponsor=136" title="Register for free to PayPlug">Register for free to PayPlug</a>
 
 = Français =
 Ce plugin vous permet d'accepter les paiements par carte de crédit via PayPlug. Il dispose d'un shortcode et d'un widget qui vous permet de placer des boutons d'achat n'importe où sur votre site WordPress.
 
-<a href="www.payplug.fr/portal2/signup?sponsor=136" tile="Inscrivez-vous gratuitement à PayPlug">Inscrivez-vous gratuitement à PayPlug</a>
+<a href="http://www.payplug.fr/portal2/signup?sponsor=136" tile="Inscrivez-vous gratuitement à PayPlug">Inscrivez-vous gratuitement à PayPlug</a>
 
 = Localization =
 
@@ -37,6 +37,9 @@ Ce plugin vous permet d'accepter les paiements par carte de crédit via PayPlug.
 * Twitter @[KulkaNicolas](https://twitter.com/KulkaNicolas)
 * Google+ [Nicolas Kulka](https://plus.google.com/u/0/105181416749428983955/)
 
+* Twitter @[mat_aubert](https://twitter.com/mat_aubert)
+* [http://mathieu-aubert.fr/](http://mathieu-aubert.fr/)
+
 * [Plateforme WP digital](http://www.plateformewpdigital.fr/)
 
 == Installation ==
@@ -44,13 +47,13 @@ Ce plugin vous permet d'accepter les paiements par carte de crédit via PayPlug.
 = English =
 1. Upload the directory `/plugin-payplug/` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
-3. Créer un <a href="www.payplug.fr/portal2/signup?sponsor=136" title="compte PayPlug gratuitement">compte PayPlug grauitement</a>
+3. Create a <a href="http://www.payplug.fr/portal2/signup?sponsor=136" title="free PayPlug account">free PayPlug account</a>
 4. Configure the plugin by going to the "PayPlug" menu
 
 = Français =
-1. Envoyez le dossier plugin-payplug dans le dossier /wp-content/plugins/
-2. Activez WP Favicon sur la page des plugins de WordPress
-3. Create a <a href="www.payplug.fr/portal2/signup?sponsor=136" title="free PayPlug account">free PayPlug account</a>
+1. Envoyez le dossier `/plugin-payplug/` dans le dossier `/wp-content/plugins/`
+2. Activez le plugin sur la page des plugins de WordPress
+3. Créer un <a href="http://www.payplug.fr/portal2/signup?sponsor=136" title="compte PayPlug gratuitement">compte PayPlug grauitement</a>
 4. Configurez le plugin en allant dans le menu "PayPlug"
 
 == Screenshots ==
